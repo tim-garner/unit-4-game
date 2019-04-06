@@ -1,0 +1,63 @@
+body {
+     
+    background-image: url("../images/background.jpg");
+}
+
+
+p { color: green;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+h1 {
+    color: white;
+    background-color: orange;
+    text-align: left;
+    font-size: 30px;
+    position: fixed;
+    
+}
+
+.container-fluid {
+    border: 4px solid red;
+    background-color: peachpuff;
+    width: 50%
+
+}
+
+
+
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    flex-direction: row;
+}
+
+.boxes {
+    background-color: blue;
+    border: 4px solid black;
+    color: black;
+    width: 25%
+  
+}
+
+.boxer {
+    background-color: limegreen;
+    color: red;
+    width: 25%;
+    border: 4px solid black;
+    
+}
+
+.finalscore {
+    background-color: yellow;
+    color: white;
+    border: 4 px solid black;
+}
+
+.table {
+    border: 1px solid black;
+}
